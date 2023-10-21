@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Joel's Portfolio</title>
-        <meta name="description" content="Joel's Portfolio" />
+        <title>JB&apos;s Portfolio</title>
+        <meta name="description" content="JB&apos;s Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
