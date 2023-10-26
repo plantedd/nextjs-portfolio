@@ -3,12 +3,14 @@ import Image from "next/image";
 const Hero = () => {
   return (
     <div className="hero-container">
-      <Image src='/images/profile.jpeg' className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
+      <Image src='/images/profile.jpeg' className="profile-img" width={300} height={300} alt="JB's personal headshot" />
       <div className="hero-text">
         <h1>Hey, I&apos;m JB 👋</h1>
         <p>
-          I&apos;m a software developer based in Waxhaw, North Carolina. I specialize in building (and occasionally designing)
-          exceptional websites, applications, and everything in between.
+          I&apos;m a software developer based in Waxhaw, North Carolina. I specialize in building exceptional websites, applications, and everything in between.
+        </p>
+        <p>
+          This site is still under construction so not much to show but please download my resume and reach out if you&apos;d like to connect!
         </p>
         <div className="social-icons">
           <a
